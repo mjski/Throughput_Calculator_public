@@ -1,0 +1,10 @@
+Tk
+pandas
+python-dateutil
+datetime
+collections-extended
+xlrd
+xlsxwriter
+regex
+matplotlib
+numpy
